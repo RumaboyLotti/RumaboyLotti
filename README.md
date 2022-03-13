@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RumaboyLotti
-- 👀 I’m interested in java/python projects, android development, & Minecraft plugins
-- 🌱 I’m currently learning algorithms & data science for java&python 
+- 👀 I’m interested in java/python/Js projects, android development, & Minecraft plugins
+- 🌱 I’m currently learning algorithms & data structures for java&js (Python) later
 - 💞️ I’m looking to collaborate on minecraft plugins fo rnow
 - 📫 How to reach me dtyasinmax@gmail.com ( Buisness Reasons Only).
 - https://bukkit.org/members/rumaboylotti.91393962/ -Bukkit
