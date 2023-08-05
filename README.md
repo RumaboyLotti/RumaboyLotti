@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RumaboyLotti
-- 👀 I’m interested in java/python/Js projects, android development, & Minecraft plugins
-- 🌱 I’m currently learning algorithms & data structures for java&js (Python) later
-- 💞️ I’m looking to collaborate on minecraft plugins fo rnow
+- 👋 Hi, I’m @Ladi Bada
+- 👀 I’m interested in Java/python/Js projects, android development, & IOT 
+- 🌱 I’m currently practicing Leetcode
+- 💞️ I’m looking to collaborate on any IOT projects
 - 📫 How to reach me dtyasinmax@gmail.com ( Buisness Reasons Only).
 - https://bukkit.org/members/rumaboylotti.91393962/ -Bukkit
 - https://www.spigotmc.org/members/ruhmahboylotti.1472413/ -Spigot
