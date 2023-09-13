@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm passionate about programming and technology, w
 
 - [Bukkit Profile](https://bukkit.org/members/rumaboylotti.91393962/)
 - [Spigot Profile](https://www.spigotmc.org/members/ruhmahboylotti.1472413/)
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) - Check out my GitHub statistics!
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Education and Skills
 
@@ -21,13 +21,7 @@ Welcome to my GitHub profile. I'm passionate about programming and technology, w
 - 💼 **Experience:** I'm currently an IT Support Technician at UMSL Tech Support Center, where I troubleshoot technical issues and manage UMSL's system software. I also gained valuable experience as a Tech Developer Intern at Sponsors for Educational Opportunity.
 - 💻 **Technical Skills:** I'm proficient in various programming languages, including JavaScript, Java, Python, C++, HTML, CSS, and SQL. I'm also familiar with technologies such as Git, Flask, PostgreSQL, MySQL, Node, and React.
 
-## Projects
 
-Here are some of the projects I've worked on:
-
-- **Mixed Messages:** A JavaScript project that randomizes words to present astrology messages.
-- **Personal Website:** My personal website built with React, showcasing my completed projects.
-- **Reddit Clone:** A Reddit clone project to enhance my front-end web development skills.
 
 ## Interests
 
