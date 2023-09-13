@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm passionate about programming and technology, w
 
 - [Bukkit Profile](https://bukkit.org/members/rumaboylotti.91393962/)
 - [Spigot Profile](https://www.spigotmc.org/members/ruhmahboylotti.1472413/)
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub Stats]([https://github.com/](https://github-readme-stats.vercel.app/api?username=RumaboyLotti)&show_icons=true&theme=calm_pink) 
 
 ## Education and Skills
 
