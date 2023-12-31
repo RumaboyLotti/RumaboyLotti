@@ -1,6 +1,6 @@
 # Hi there, I'm Ladi Bada! 👋
 
-Welcome to my GitHub profile. I'm passionate about programming and technology, with a focus on Java, Python, and JavaScript projects. As an Information Systems and Technology major with a minor in Computer Science at the University of Missouri St. Louis, I'm committed to honing my skills and contributing to the world of software development.
+Welcome to my GitHub profile. I'm passionate about programming and technology, with a focus on Java, Python, and JavaScript projects. I am an Information Systems and Technology major with a minor in Computer Science at the University of Missouri St. Louis.
 
 ## About Me
 
