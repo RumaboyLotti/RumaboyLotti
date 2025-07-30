@@ -1,6 +1,6 @@
 # Hi there, I’m Ladi Bada! 👋
 
-Welcome to my GitHub profile. I’m an aspiring Stundent with a background in **Information Systems and Technology** and a minor in **Computer Science**. I’m planning on pursuing a second degree in **Electrical Engineering**.
+Welcome to my GitHub profile. I’m an aspiring life-long Stundent with a background in **Information Systems and Technology** and a minor in **Computer Science**. I’m planning on pursuing a second degree in **Electrical Engineering**.
 
 ##  About Me
 
@@ -36,11 +36,8 @@ I also continue to sharpen my Java, Python, JavaScript, and MATLAB skills as par
 
 **Degrees:**
 -  *B.S. in Information Systems and Technology* (Minor in CS), UMSL — *Graduated 2025*
--  *B.S. in Electrical Engineering*  ( )
+-  *B.S. in Electrical Engineering*  (Eventually )
 
-**Experience:**
--  *IT Support Technician* – UMSL Tech Support Center
--  *Tech Developer Intern* – Sponsors for Educational Opportunity (SEO)
 
 **Skills:**
 - Programming: JavaScript, Python, C++, Java, SQL, HTML/CSS
@@ -55,7 +52,7 @@ I also continue to sharpen my Java, Python, JavaScript, and MATLAB skills as par
 -  Soccer, philosophy, research, system thinking
 
 Thanks for stopping by my profile! Let’s connect and build something meaningful .
-"""
+
 
 
 
