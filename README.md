@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I’m an aspiring Stundent with a background in **
 -  I bring a strong foundation to hardware and engineering projects.
 -  Interested in **IoT**, **embedded systems**, **smart grid tech**, and **solar energy systems**.
 -  Actively building projects that blend **software and electrical engineering** principles.
--  Reach me at **dtyasinmax@gmail.com** for collaboration or questions!
+-  Reach me at **ladi.works@gmail.com** for collaboration or questions!
 
 ##  What I'm Learning
 
