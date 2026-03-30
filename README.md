@@ -14,11 +14,11 @@ I’m structring my learning so i can do this this is the order i have setled on
 
 | Language     | Purpose                                    |
 |--------------|--------------------------------------------|
-| Go (Golang)  | Backend microservices & concurrency        |
+| Go (Golang)  | Backend work    |
 | Python       | Scripting and Leetcode                     |
-| Java / Kotlin| Android and cross-platform dev             |
+| Java / Kotlin| Minecraft coding             |
 | Rust         |     Personal Choice to dabble in robotics and keep me motivated      |
-| C++          | Performance-critical EE/IoT applications   |
+| C++          | For Enginnering school |
 
 I also continue to sharpen my frontend skills as need be 
 
