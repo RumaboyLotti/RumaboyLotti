@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I’m a life-long Student and Engineer
 
 ##  About Me
 
--  I’m transitioning into Electrical Engineering at some point
+-  working on things that interest me at the moment
 -  Reach me at **ladi.works@gmail.com** 
 
 ##  What I'm Learning
