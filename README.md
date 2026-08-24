@@ -9,16 +9,16 @@ Welcome to my GitHub profile. I’m a life-long Student and Engineer
 
 ##  What I'm Learning
 
-I’m structring my learning so i can do this this is the order i have setled on .
+I’m structuring my learning so i can do this this is the order i have settled on .
 
 
 | Language     | Purpose                                    |
 |--------------|--------------------------------------------|
-| Go (Golang)  | Backend work    |
+| Go           | Backend work    |
 | Python       | Scripting and Leetcode                     |
-| Java / Kotlin| Minecraft coding             |
-| Rust         |     Personal Choice to dabble in robotics and keep me motivated      |
-| C++          | For Enginnering school |
+| Java         | Java man           |
+| Rust         | Personal Choice to dabble in robotics and keep me motivated      |
+| C++          | For Engineering school |
 
 I also continue to sharpen my frontend skills as need be 
 
@@ -27,7 +27,7 @@ I also continue to sharpen my frontend skills as need be
 - [Bukkit Profile](https://bukkit.org/members/rumaboylotti.91393962/)
 - [Spigot Profile](https://www.spigotmc.org/members/ruhmahboylotti.1472413/)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumaboyLotti&show_icons=true&theme=calm_pink)
-- [Website](https://www.ladibada.com) - Needs to be fixed 
+- [Website](https://www.ladibada.com) - WIP
 
 
 Thanks for stopping by.
