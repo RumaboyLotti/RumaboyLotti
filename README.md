@@ -9,18 +9,18 @@ Welcome to my GitHub profile. I’m a life-long Student and Engineer
 
 ##  What I'm Learning
 
-I’m structuring my learning so i can do this this is the order i have settled on .
+I’m structuring my learning 
 
 
 | Language     | Purpose                                    |
 |--------------|--------------------------------------------|
-| Go           | Backend work    |
-| Python       | Scripting and Leetcode                     |
 | Java         | Java man           |
-| Rust         | Personal Choice to dabble in robotics and keep me motivated      |
+| Python       | Scripting and Leetcode                     |
+| Go           | Backend work    |
 | C++          | For Engineering school |
+| Rust         | Personal Choice to dabble in robotics and keep me motivated      |
 
-I also continue to sharpen my frontend skills as need be 
+I also continue to sharpen my front-end skills as need be 
 
 ## 🔗 Links
 
