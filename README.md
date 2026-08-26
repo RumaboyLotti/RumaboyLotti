@@ -9,8 +9,7 @@ Welcome to my GitHub profile. I’m a life-long Student and Engineer
 
 ##  What I'm Learning
 
-I’m structuring my learning 
-
+This is based on the order of what i plan on learning 
 
 | Language     | Purpose                                    |
 |--------------|--------------------------------------------|
@@ -26,7 +25,6 @@ I also continue to sharpen my front-end skills as need be
 
 - [Bukkit Profile](https://bukkit.org/members/rumaboylotti.91393962/)
 - [Spigot Profile](https://www.spigotmc.org/members/ruhmahboylotti.1472413/)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumaboyLotti&show_icons=true&theme=calm_pink)
 - [Website](https://www.ladibada.com) - WIP
 
 
