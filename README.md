@@ -15,9 +15,9 @@ This is based on the order of what i plan on learning
 |--------------|--------------------------------------------|
 | Java         | Java man           |
 | Python       | Scripting and Leetcode                     |
-| Go           | Backend work    |
-| C++          | For Engineering school |
+| C/C++        | For Engineering school |
 | Rust         | Personal Choice to dabble in robotics and keep me motivated      |
+| Go           | Interested in Learning    |
 
 I also continue to sharpen my front-end skills as need be 
 
